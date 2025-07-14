@@ -1,34 +1,42 @@
 ---
 title: About
-description: Hugo, the world's fastest framework for building websites
-date: '2019-02-28'
+description: Deshuai "Ruben" Ren's professional teaching background
+date: '2025-07-13'
 aliases:
   - about-us
-  - about-hugo
+  - about-me
   - contact
 license: CC BY-NC-ND
-lastmod: '2020-10-09'
+lastmod: '2025-07-13'
 menu:
-    main: 
-        weight: -90
-        params:
-            icon: user
+  main: 
+    weight: -90
+    params:
+      icon: user
 ---
 
-Written in Go, Hugo is an open source static site generator available under the [Apache License 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+## Deshuai "Ruben" Ren
 
-Hugo makes use of a variety of open source projects including:
+Certified Flight Instructor – Instrument (CFII)  
+Helicopter & Fixed-Wing  
+Gold Seal Instructor  
+Remote Pilot Certificate Holder
 
-* https://github.com/yuin/goldmark
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
+---
 
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
+### Teaching Philosophy
 
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
+**"Teach according to each student’s aptitude — everyone deserves a chance to learn."**
 
-Websites built with Hugo are extremely fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
+---
 
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+### Contact
+
+📧 Email: [aviation.ruben@gmail.com](mailto:aviation.ruben@gmail.com)
+
+---
+
+### Experience
+
+Ruben has been actively involved in flight instruction across both helicopter and fixed-wing platforms.  
+He is passionate about helping students achieve confidence and precision through tailored, safety-first training.  
