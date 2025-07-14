@@ -37,8 +37,8 @@ This tool allows instructors to quickly generate FAA-compliant endorsements by s
 
 ### 📸 Screenshots
 
-![Generator Interface](/images/endorsement1.png)
-![Sample Output](/images/endorsement2.png)
+![Generator Interface](endorsement1.jpg)  
+![Sample Output](endorsement2.png)
 
 > *Note: Screenshots are mockups. Real examples are available upon request.*
 
