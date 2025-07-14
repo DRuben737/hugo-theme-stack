@@ -1,8 +1,8 @@
-baseurl: https://example.com/
+baseurl: https://ruben.pilotseal.com/
 languageCode: en-us
 theme: hugo-theme-stack
-title: Example Site
-copyright: Example Person
+title: Ruben R. | CFII-A/H | Gold Seal Instructor
+copyright: DRen
 
 # Theme i18n support
 # Available values: ar, bn, ca, de, el, en, es, fr, hu, id, it, ja, ko, nl, pt-br, th, uk, zh-cn, zh-hk, zh-tw
@@ -15,26 +15,18 @@ hasCJKLanguage: false
 languages:
     en:
         languageName: English
-        title: Example Site
+        title: Ruben R. | CFII-A/H | Gold Seal Instructor
         weight: 1
         params:
             sidebar:
-                subtitle: Example description
+                subtitle: Gold Seal Flight Instructor | Aviation Safety
     zh-cn:
         languageName: 中文
-        title: 演示站点
+        title: 任德帅个人站 | 金牌飞行教员
         weight: 2
         params:
             sidebar:
-                subtitle: 演示说明
-    ar:
-        languageName: عربي
-        languagedirection: rtl
-        title: موقع تجريبي
-        weight: 3
-        params:
-            sidebar:
-                subtitle: وصف تجريبي
+                subtitle: 固定翼与直升机双CFII，飞行教学与系统安全研究者
 
 services:
     # Change it to your Disqus shortname before using
@@ -68,7 +60,7 @@ params:
 
     sidebar:
         emoji: 🍥
-        subtitle: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+        subtitle: Gold Seal Flight Instructor | Aviation Safety
         avatar:
             enabled: true
             local: true
@@ -212,7 +204,19 @@ params:
 ### See https://stack.jimmycai.com/config/menu
 ### To remove about, archive and search page menu item, remove `menu` field from their FrontMatter
 menu:
-    main: []
+    main:
+        - identifier: about
+          name: About
+          url: /page/
+          weight: 1
+        - identifier: projects
+          name: Projects
+          url: /page/endorsement-tool/
+          weight: 2
+        - identifier: contact
+          name: Contact
+          url: /page/contact/
+          weight: 3
 
     social:
         - identifier: github
