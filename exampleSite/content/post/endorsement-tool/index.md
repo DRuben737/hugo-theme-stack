@@ -23,7 +23,7 @@ This tool allows instructors to quickly generate FAA-compliant endorsements by s
 - Auto-formats date, instructor certificate number, and name
 - Customizable signature and name block
 - Print-ready PDF output
-- Currently includes **Private, Instrument, and Commercial** level endorsements
+- Currently includes **Private, Instrument, Commercial, and Flight Instructor** level endorsements
 
 ---
 
@@ -46,7 +46,7 @@ This tool allows instructors to quickly generate FAA-compliant endorsements by s
 
 ### 🔗 Try it out
 
-👉 [Open the Endorsement Generator](https://endorse.pilotseal.com)
+👉 [Open the Endorsement Generator](https://www.pilotseal.com/endorsement-generator)
 
 ---
 
