@@ -12,7 +12,15 @@ collections:
     create: true
     slug: "{{slug}}"
     fields:
-      - { label: "标题", name: "title", widget: "string" }
-      - { label: "日期", name: "date", widget: "datetime" }
-      - { label: "简介", name: "description", widget: "text" }
-      - { label: "正文", name: "body", widget: "markdown" }
+      - label: "标题"
+        name: "title"
+        widget: "string"
+      - label: "日期"
+        name: "date"
+        widget: "datetime"
+      - label: "简介"
+        name: "description"
+        widget: "text"
+      - label: "正文"
+        name: "body"
+        widget: "markdown"
