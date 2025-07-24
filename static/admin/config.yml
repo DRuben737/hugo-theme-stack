@@ -24,3 +24,16 @@ collections:
       - label: "正文"
         name: "body"
         widget: "markdown"
+  - name: "pages"
+    label: "页面管理"
+    folder: "content/page"
+    create: true
+    slug: "{{slug}}"
+    i18n: true
+    fields:
+      - label: "标题"
+        name: "title"
+        widget: "string"
+      - label: "正文"
+        name: "body"
+        widget: "markdown"
